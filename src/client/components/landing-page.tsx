@@ -98,7 +98,7 @@ const LandingPage:React.FunctionComponent = () => {
         </Grid>
         <Grid container justify='center' classes={{container:classes.inviteButtons}}>
           <Button classes={{root:classes.inviteButton}} variant='contained' size='large'
-            href='https://discord.com/oauth2/authorize?client_id=787714261576318976&scope=bot%20applications.commands&permissions=8'
+            href='https://discord.com/oauth2/authorize?client_id=1102264320911478848&scope=bot%20applications.commands&permissions=8'
           >
             INVITE ME
           </Button>
